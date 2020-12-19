@@ -27,21 +27,21 @@ Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
 # Analysis Tasks- Basic Statistics tasks
 
-## 1. Which store has maximum sales
-## 2. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
-## 3. Which store/s has good quarterly growth rate in Q3’2012
-## 4. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together
-## 5. Provide a monthly and semester view of sales in units and give insights
+### 1. Which store has maximum sales
+### 2. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
+### 3. Which store/s has good quarterly growth rate in Q3’2012
+### 4. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together
+### 5. Provide a monthly and semester view of sales in units and give insights
 
 # Statistical Model-
 
-## For Store 1 – Build  prediction models to forecast demand
+### For Store 1 – Build  prediction models to forecast demand
 Linear Regression – Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.
 Change dates into days by creating new variable. Select the model which gives best accuracy.
 
 *-> Detailed Analsyis and coding with statistical model are provided in Walmart Retail Data Analysis.ipynb file
 
-# *Project 2- IBM HR Analytics Employee Attrition Modeling
+# *Project 2- IBM HR Analytics Employee Attrition Modeling*
 
 IBM is an American MNC operating in around 170 countries with major business vertical as computing, software, and hardware.
 Attrition is a major risk to service-providing organizations where trained and experienced people are the assets of the company. The organization would like to identify the factors which influence the attrition of employees.
@@ -63,11 +63,11 @@ YearsAtCompany: Current years of service in IBM
 ## Analysis Task:
 - Import attrition dataset and import libraries such as pandas, matplotlib.pyplot, numpy, and seaborn.
 - Exploratory data analysis
-## 1. Find the age distribution of employees in IBM
-## 2. Explore attrition by age
-## 3. Explore data for Left employees
-## 4. Find out the distribution of employees by the education field
-## 5. Give a bar chart for the number of married and unmarried employees
-## 6. Build up a logistic regression model to predict which employees are likely to attrite.
+### 1. Find the age distribution of employees in IBM
+### 2. Explore attrition by age
+### 3. Explore data for Left employees
+### 4. Find out the distribution of employees by the education field
+### 5. Give a bar chart for the number of married and unmarried employees
+### 6. Build up a logistic regression model to predict which employees are likely to attrite.
 
 
