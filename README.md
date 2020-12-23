@@ -70,10 +70,12 @@ YearsAtCompany: Current years of service in IBM
 ### 5. Give a bar chart for the number of married and unmarried employees
 ### 6. Build up a logistic regression model to predict which employees are likely to attrite.
 
-# *Project 3- House Sales Prediction *
+# *Project 3- House Sales Prediction*
   Use Linear regression and Gradient Boost algorithm to check the accuracy of model and answer the below questions-
   ### 1. Which is the most common house (Bedroom wise) ?
   ### 2. Visualizing the location of the houses based on latitude and longitude.
   ### 3. How common factors are affecting the price of the houses ?
 
-
+# *Project 4- Mushroom Classification problem*
+   1. What types of machine learning models perform best on this dataset?
+   2. Which features are most indicative of a poisonous mushroom?
