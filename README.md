@@ -79,3 +79,7 @@ YearsAtCompany: Current years of service in IBM
 # *Project 4- Mushroom Classification problem*
    1. What types of machine learning models perform best on this dataset?
    2. Which features are most indicative of a poisonous mushroom?
+
+# *Project 5- Store Item Demand Forecast ( TIME SERIES)*
+  1. You are given 5 years of store-item sales data, and asked to predict average sales for different items at different stores.
+  2. Identify the average sales by Stores and Items
